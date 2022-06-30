@@ -1,0 +1,43 @@
+.banner{
+    background:url("haliza/naruto-5823848__480.png")no-repeat center center ;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: rgb(245, 17, 17);
+}
+
+.lingkaran{
+    display:inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150%px;
+    color: rgb(19, 20, 20);
+    background-color: rgb(248, 80, 14);
+}
+.crop-img{
+    object-fit: cover;
+}
+
+.saya img{
+    width: 250px;
+    border: 10px solid #cccc;
+}
+
+a.social{
+display: inline-block;
+width: 40px;
+height: 40px;
+color: rgb(13, 14, 15);
+border-radius: 50%;
+background-color: rgb(12, 1, 1);
+line-height: 40px;
+}
+
+.kontak{
+    background: url(haliza/depositphotos_174096216-stock-photo-future-of-digital-processor.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: rgb(236, 8, 8);
+}
